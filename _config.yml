@@ -1,11 +1,11 @@
 # Site settings
-author: Olivia Hanson
-title: 
+author: Olivia
+title: Olivia Codes
 header-img: img/home-bg.png
 email: olivia.joy.hanson@gmail.com
-copyright_name: Olivia Hanson
+copyright_name: Olivia
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The coding struggle is real, so let's try this out together.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  OliviaJoyHanson
